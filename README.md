@@ -43,15 +43,15 @@ npm run dev
 
 #### 3.1 THREE.js and Blender
 
-Blender has always fascinated me with its capability in 3D modelling, animation and material design. With the discovery of Three.js, I was excited to try out the numerous possibility to deploy my models live of a website. Through this project, I was able to familiarise myself with the general workflow of working with blender to Three.js, this includes exporting the model to `.glb` format and baking of material textures onto UV map.
+Blender has always fascinated me with its capability in 3D modeling, animation, and material design. With the discovery of Three.js, I was excited to try out the numerous possibility to deploy my models live on a website. Through this project, I was able to familiarise myself with the general workflow of working with Blender to Three.js, which includes exporting the model to `.glb` format and baking material textures onto UV map.
 
 #### 3.2 Singleton Design Pattern
 
-In this project, I've used the Singleton design pattern to factorise my project. Thisis a creational design pattern that ensures that a class has only one instance while providing a global access point to this instance. This means that a single class is responsible for creation of objects and at this same time acts as an access point to other classes.
+In this project, I've used the Singleton design pattern to factorize my project. This is a creational design pattern that ensures that a class has only one instance while providing a global access point to this instance. This means that a single class is responsible for the creation of objects and at this same time acts as an access point to other classes.
 
 #### 3.3 GSAP timelines and scrollTrigger
 
-Most animations in this project is accomplished with the help of the GSAP library. It allows for easy sequencing of animation without compromising on controls.
+Most animations in this project are accomplished with the help of the GSAP library. It allows for easy sequencing of animation without compromising on controls.
 
 #### 3.4 GLSL Shader
 
@@ -61,7 +61,7 @@ I got to learn the basics of the GLSL language to generate amazing textures as p
 
 #### 3.5 CSS Animation
 
-Through this project, I have also gotten my first experiencing in animating simple pure CSS animation using `@keyframes`. This is a really quick and easy way to make short animations without the need to external softwares or libraries.
+Through this project, I have also gotten my first experience in animating simple pure CSS animation using `@keyframes`. This is a quick and easy way to make short animations without needing external software or libraries.
 
 ---
 
